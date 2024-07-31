@@ -3,7 +3,10 @@ Rencana konten wpu
 -javascript
 * E56
 * Framework Javacript
--Struktur data dasar
+  ^ Angular
+  ^ React
+
 - PHP Frameworks
+  ^ Laravel
 -Interview
 -Vlogs
