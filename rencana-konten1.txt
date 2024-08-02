@@ -6,6 +6,7 @@ Rencana konten wpu
 
   ^ vue
   ^ React
+  ^ angular
 -Struktur data dasar
 - PHP Frameworks
   ^ Laravel
